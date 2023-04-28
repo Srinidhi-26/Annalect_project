@@ -1,0 +1,4 @@
+I went through flask migrations(install, initialize, create,apply migrations)
+
+And I went through documentation of Annalect report Builder project(List of how to's)
+

@@ -1,0 +1,3 @@
+I have worked on some of the basic git commands(creating repo adding folders and files through git commands)
+
+And I have worked on API documentation from linkedIn learning(types API's, Types of Documentation tools)

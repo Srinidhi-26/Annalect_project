@@ -1,0 +1,7 @@
+Annalect report builder
+I have cloned the repository 
+
+wsl and vscode 
+I have Integrated wsl with vscode 
+
+Went through some more git commands 
