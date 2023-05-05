@@ -1,0 +1,5 @@
+Went through logging and its types of logging 
+
+Went through wsgi 
+
+And went through upsert commands 

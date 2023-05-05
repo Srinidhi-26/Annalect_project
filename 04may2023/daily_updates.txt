@@ -1,0 +1,3 @@
+Went through all Api's and worked with postman 
+
+And learn't about pagination 
